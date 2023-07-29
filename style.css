@@ -582,4 +582,8 @@ footer a{
     footer p{
         font-size: 1rem;
     }
+
+    .btn{
+        margin-bottom: 32px;
+    }
  }
